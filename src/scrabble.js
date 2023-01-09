@@ -2,6 +2,8 @@ class Scrabble {
 
   score() {
     // Write your implementation here
+
+
   }
 }
 
